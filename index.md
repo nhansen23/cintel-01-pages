@@ -9,6 +9,7 @@ Here's a clickable link: [My favorite AI assistant](https://www.bing.com/chat)
 ## Images
 
 Graph from Olympics EDA:
+
 ![My Shiny Image](https://github.com/nhansen23/datafun-06-eda/blob/main/OlympicsGenderDifference.jpg)
 
 ## Reminders
